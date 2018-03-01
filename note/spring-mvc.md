@@ -231,7 +231,7 @@ public void init() {
 
 ##### 注解驱动
 
-其parse方法负责向Sprng容器注册一些必要的组件，整理如下图:
+其parse方法负责向Spring容器注册一些必要的组件，整理如下图:
 
 ![mvc-annotation](images/mvc-annotation.png)
 
